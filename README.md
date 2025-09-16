@@ -64,7 +64,7 @@ Bot Telegram untuk membantu tim QA melakukan monitoring, pencarian data audit, d
 
 **[Dede Yudha a.k.a Joey]**
 - GitHub: [@naeyanika](https://github.com/naeyanika)
-- Email: your.email@example.com
+- Email: naeyanika@gmail.com
 
 ---
 
