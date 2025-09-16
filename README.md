@@ -23,7 +23,7 @@ Bot Telegram untuk membantu tim QA melakukan monitoring, pencarian data audit, d
 
 1. Clone repository:
     ```bash
-    git clone https://github.com/username/audit-qa-telegram-bot.git
+    git clone https://github.com/naeyanika/audit-qa-telegram-bot.git
     cd audit-qa-telegram-bot
     ```
 
@@ -62,8 +62,8 @@ Bot Telegram untuk membantu tim QA melakukan monitoring, pencarian data audit, d
 
 ## 👨‍💻 Author
 
-**[Nama Anda]**
-- GitHub: [@username](https://github.com/username)
+**[Dede Yudha a.k.a Joey]**
+- GitHub: [@naeyanika](https://github.com/naeyanika)
 - Email: your.email@example.com
 
 ---
